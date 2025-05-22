@@ -1,7 +1,7 @@
 # aiohttp_server.py
 from aiohttp import web
 import aiohttp
-import asyncio
+# import asyncio
 
 
 async def handle(request):
